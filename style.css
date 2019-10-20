@@ -1,0 +1,22 @@
+.box {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-color: honeydew;
+	padding: 30px;
+	width: 100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+#password {
+	width: 100%;
+	height: 100%;
+}
+h1 {
+	text-align: center;
+}
+h2 {
+	text-align: center;
+	border-bottom: black;
+	border-style: bold;
+}
